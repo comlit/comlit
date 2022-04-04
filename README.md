@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Fabian
-- 👀 I’m interested in home automation and app delopment
+- 👀 I’m interested in home automation, app development and ML applications
 - 💞️ I’m looking to collaborate on interesting projects
 - 📫 How to reach me 1803fabian@gmail.com
 
